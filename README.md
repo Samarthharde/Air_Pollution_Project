@@ -20,7 +20,7 @@ This project explores air pollution data across cities in the **United States**.
 ## 📂 Dataset  
  **air_pollution_data.csv** – Year-wise data for pollutants (PM2.5, NO2, SO2, CO, O3) and AQI across U.S. cities. 
 
- **Source**: [U.S. Air Quality Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+ **Source**: [U.S. Air Quality Dataset](https://www.kaggle.com/datasets/sogun3/uspollution)
 
 ---
 
